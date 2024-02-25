@@ -11,11 +11,11 @@ Tal como se pedia, una vez abierto se ejeucta con el simbolo del pergamino en DB
 incluyendo la proporcionada para el ejercicio tmp_videoclub, la cual alimenta a las cinco tablas creadas para la resolución del 
 problema, estas son:
 
-Socio
-Pelicula
-Alquiler
-Direccion_correspondencia
-Telefono
+- Socio
+- Pelicula
+- Alquiler
+- Direccion_correspondencia
+- Telefono
 
 En este modelo no se ha usado el mail.
 
